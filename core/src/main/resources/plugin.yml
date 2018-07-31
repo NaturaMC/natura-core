@@ -1,0 +1,6 @@
+name: NaturaMC Core
+author: Nikl
+main: com.naturamc.Core
+version: 1.0.0
+website: naturamc.com
+softdepend: [CalendarEvents]
